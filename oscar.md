@@ -13,11 +13,9 @@ En el apartado de Docker, hemos utilitzado dos herramientas muy utiles
 - Docker Compose  
 
 Esto es un trozo de código  
-``  
-$ apt update  
-
-$ apt upgrade
-
+``
+ $ apt update 
+ $ apt upgrade  
 ``  
 Toda la documentación lo tenemos subida a [Aules](https://aules.edu.gva.es/)  
 
