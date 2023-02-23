@@ -13,10 +13,10 @@ En el apartado de Docker, hemos utilitzado dos herramientas muy utiles
 - Docker Compose  
 
 Esto es un trozo de código  
-``
+```
  $ apt update 
  $ apt upgrade  
-``  
+```
 Toda la documentación lo tenemos subida a [Aules](https://aules.edu.gva.es/)  
 
 ![](https://portal.edu.gva.es/aules/wp-content/uploads/sites/644/2020/12/logo_aulesnew.png)
